@@ -1,0 +1,6 @@
+## [1.0.0] - 2024-09-21
+
+### Changed
+- Full server hardware upgrade and relocation for improved performance.
+- Complete revamp of server structure to enhance gameplay experience.
+- Optimized settings and configurations for smoother, more responsive gameplay.
